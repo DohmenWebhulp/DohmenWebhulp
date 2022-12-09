@@ -17,7 +17,6 @@ I'm a software developer, specialized in C# .NET. I also like to build projects 
 * WPF
 * MVVM & MVC
 
-
 <!--
 **DohmenWebhulp/DohmenWebhulp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
