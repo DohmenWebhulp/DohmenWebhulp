@@ -4,6 +4,20 @@ I'm a software developer, specialized in C# .NET. I also like to build projects 
 
 [![Jesse's GitHub stats](https://github-readme-stats.vercel.app/api?username=DohmenWebhulp)](https://github.com/DohmenWebhulp)
 
+## My skills
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* Laravel
+* Symfony
+* C#
+* .NET
+* WPF
+* MVVM & MVC
+
+
 <!--
 **DohmenWebhulp/DohmenWebhulp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
