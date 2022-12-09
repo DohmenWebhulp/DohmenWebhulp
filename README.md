@@ -1,4 +1,8 @@
-### Hi there 👋
+# Jesse Dohmen ✔
+
+I'm a software developer, specialized in C# .NET. I also like to build projects in PHP with frameworks like Laravel and Symfony. My main focus is on web development and my dream is to make functionally outstanding web applications and websites. Thinking deeply about how to structure an application before coding is something I think is important, but at the same time I think you can also learn a lot by practicing.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DohmenWebhulp/DohmenWebhulp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
